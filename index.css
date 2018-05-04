@@ -1,0 +1,169 @@
+body {
+	background-color: gray;
+	text-align: center; 
+	font-weight: normal;
+	width: 100%;
+	color: black; 
+
+	
+
+}
+
+
+
+
+/*Nouveau code*/
+
+#wrapper{
+	width: 30%;
+	margin: 0 auto;
+	max-height: 700px;
+	height: 60%.
+}
+
+#wrapper h1
+{
+	text-align: center;
+}
+#box{
+
+	display: flex;
+}
+#image{
+ 
+ flex: 1;
+ position: center;
+ display: block;
+
+}
+
+}
+#text
+{
+	flex: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+font-family: 'Arvo', serif;
+
+
+
+
+.imageducorps {
+
+	position: absolute;
+}
+
+
+.Circle{
+width: 30px;
+	height: 30px;
+	border-radius: 50%:;
+	background-color: red;
+	text-align: left;
+
+}
+.Circle{
+	position: absolute;
+	height: 4%
+	border-radius:100%;
+	width: 4%
+	background-color:orange;
+	border-radius:;
+	transition: 2s;
+
+}
+.Circle.first{
+	left:65%;
+	top:7%;
+}
+.Epaule{
+  height: 35px;
+  width: 35px;
+  background-color: purple;
+  border-radius: 50%;
+  margin-top: -95%;
+  margin-left: 39%;
+  opacity:0,5;
+  position: relative;
+  
+
+
+  
+  
+} 
+.Poignet{
+  height: 35px;
+  width: 35px;
+  background-color: yellow;
+  border-radius: 50%;
+  margin-top: 18%;
+  margin-right: 80%;
+  opacity:0,5;
+  position: relative;
+  top: 50%;
+  
+  
+} 
+.Doigt{
+ height: 35px;
+  width: 35px;
+  background-color: pink;
+  border-radius: 50%;
+  margin-top: -95%;
+   margin-right: 
+  opacity:0,5;
+  position: relative;
+  
+  
+} 
+.Genou{
+ height: 35px;
+  width: 35px;
+  background-color: green;
+  border-radius: 50%;
+  margin-bottom:-95%;
+  margin-right: 
+  opacity:0,5;
+  position: relative;
+  
+  
+} 
+.Pied{
+  height: 35px;
+  width: 35px;
+  background-color: blue;
+  border-radius: 50%;
+  margin-top: -95%;
+  right: 30px
+  margin-right: 
+  opacity:0,5;
+  position: relative;
+  
+} 
+.Cuisse{
+  height: 35px;
+  width: 35px;
+  background-color: gray;
+  border-radius: 50%;
+  margin-: -95%;
+  margin-right: 
+  opacity:0,5;
+  position: relative;
+ 
+  
+} 
+
+.copyright {
+    float: right;
+    display: block;
+}
